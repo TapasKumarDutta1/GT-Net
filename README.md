@@ -8,10 +8,6 @@ This repository is for the Tensorflow implementation of our paper "	GT-Net: glob
 
 ## Citation
 
-Dutta, T.K., Nayak, D.R. & Pachori, R.B. GT-Net: global transformer network for multiclass brain tumor classification using MR images. Biomed. Eng. Lett. 14, 1069–1077 (2024). https://doi.org/
-
-
-
 ```markdown
 @ELSEVIER{
   author={Dutta, Tapas Kumar; Nayak, Deepak Ranjan; Pachori, Ram Bilas},
