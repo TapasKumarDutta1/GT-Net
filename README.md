@@ -9,7 +9,7 @@ This repository is for the Tensorflow implementation of our paper "	GT-Net: glob
 ## Citation
 
 ```markdown
-@ELSEVIER{
+@article{
   author={Dutta, Tapas Kumar; Nayak, Deepak Ranjan; Pachori, Ram Bilas},
   booktitle={Biomedical Engineering Letters}, 
   title={GT-Net: global transformer network for multiclass brain tumor classification using MR images}, 
