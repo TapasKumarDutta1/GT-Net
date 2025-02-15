@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
-This repository is for the Tensorflow implementation of our paper "	GT-Net: global transformer network for multiclass brain tumor classification using MR images".
+This repository is for the Tensorflow implementation of our paper "GT-Net: global transformer network for multiclass brain tumor classification using MR images".
 
 
 
