@@ -4,7 +4,7 @@
 
 This repository is for the Tensorflow implementation of our paper "GT-Net: global transformer network for multiclass brain tumor classification using MR images".
 
-
+![alt text](assets/GT_Net.png)
 
 ## Citation
 
